@@ -1,0 +1,7 @@
+{
+  "name": "Upgrade",
+  "description": "Interactive interior design consultant. Reimagine your space with AI-generated styles, refine with natural language, and chat with an expert design bot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
